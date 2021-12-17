@@ -1,0 +1,10 @@
+C:\ps-json-net\m2\m2-05-dates-demo\bin\Debug\m2-03-dates-demo.exe.config
+C:\ps-json-net\m2\m2-05-dates-demo\bin\Debug\m2-03-dates-demo.exe
+C:\ps-json-net\m2\m2-05-dates-demo\bin\Debug\m2-03-dates-demo.pdb
+C:\ps-json-net\m2\m2-05-dates-demo\bin\Debug\Newtonsoft.Json.dll
+C:\ps-json-net\m2\m2-05-dates-demo\bin\Debug\Newtonsoft.Json.xml
+C:\ps-json-net\m2\m2-05-dates-demo\obj\Debug\m2-03-dates-demo.csprojAssemblyReference.cache
+C:\ps-json-net\m2\m2-05-dates-demo\obj\Debug\m2-03-dates-demo.csproj.CoreCompileInputs.cache
+C:\ps-json-net\m2\m2-05-dates-demo\obj\Debug\m2-03-dates-demo.csproj.CopyComplete
+C:\ps-json-net\m2\m2-05-dates-demo\obj\Debug\m2-03-dates-demo.exe
+C:\ps-json-net\m2\m2-05-dates-demo\obj\Debug\m2-03-dates-demo.pdb

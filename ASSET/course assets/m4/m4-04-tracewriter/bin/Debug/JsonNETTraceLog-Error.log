@@ -1,0 +1,3 @@
+*** TraceLevel.Error: Error ***
+*** TraceLevel.Error with MissingMemberHandling.Error: Error ***
+2020-06-10 18:26:10	Error	Error deserializing m4_04_tracewriter.Author. Could not find member 'car ' on object of type 'Author'. Path '['car ']', line 12, position 9.

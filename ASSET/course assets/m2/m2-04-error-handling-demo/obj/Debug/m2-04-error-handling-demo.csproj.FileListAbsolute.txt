@@ -1,0 +1,17 @@
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\AuthorCourses.json
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\AuthorDates.json
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\AuthorSmall.json
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\AuthorSingle.json
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\AuthorExtended.json
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\m2-04-error-handling-demo.exe.config
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\m2-04-error-handling-demo.exe
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\m2-04-error-handling-demo.pdb
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\JsonSamples.dll
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\Newtonsoft.Json.dll
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\JsonSamples.pdb
+C:\ps-json-net\m2\m2-06-error-handling-demo\bin\Debug\Newtonsoft.Json.xml
+C:\ps-json-net\m2\m2-06-error-handling-demo\obj\Debug\m2-04-error-handling-demo.csprojAssemblyReference.cache
+C:\ps-json-net\m2\m2-06-error-handling-demo\obj\Debug\m2-04-error-handling-demo.csproj.CoreCompileInputs.cache
+C:\ps-json-net\m2\m2-06-error-handling-demo\obj\Debug\m2-04-error-handling-demo.csproj.CopyComplete
+C:\ps-json-net\m2\m2-06-error-handling-demo\obj\Debug\m2-04-error-handling-demo.exe
+C:\ps-json-net\m2\m2-06-error-handling-demo\obj\Debug\m2-04-error-handling-demo.pdb

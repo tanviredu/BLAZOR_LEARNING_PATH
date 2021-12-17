@@ -1,0 +1,17 @@
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\AuthorCourses.json
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\AuthorDates.json
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\AuthorSmall.json
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\AuthorSingle.json
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\AuthorExtended.json
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\m2-01-mapping-demo.exe.config
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\m2-01-mapping-demo.exe
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\m2-01-mapping-demo.pdb
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\JsonSamples.dll
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\Newtonsoft.Json.dll
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\JsonSamples.pdb
+C:\ps-json-net\m2\m2-03-mapping-demo\bin\Debug\Newtonsoft.Json.xml
+C:\ps-json-net\m2\m2-03-mapping-demo\obj\Debug\m2-01-mapping-demo.csprojAssemblyReference.cache
+C:\ps-json-net\m2\m2-03-mapping-demo\obj\Debug\m2-01-mapping-demo.csproj.CoreCompileInputs.cache
+C:\ps-json-net\m2\m2-03-mapping-demo\obj\Debug\m2-01-mapping-demo.csproj.CopyComplete
+C:\ps-json-net\m2\m2-03-mapping-demo\obj\Debug\m2-01-mapping-demo.exe
+C:\ps-json-net\m2\m2-03-mapping-demo\obj\Debug\m2-01-mapping-demo.pdb

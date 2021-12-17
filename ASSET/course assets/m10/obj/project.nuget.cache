@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wiwGY62oeYz7K4dbKr3mpVkzv/Es0cXux5pjBtQLNP6NmkS6ZYXA+McQ+QMaUD5te7UhReLnmZkuFUxk9W5whg==",
+  "success": true,
+  "projectFilePath": "C:\\ps-json-net\\m10\\m10-01-future-json.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xavier\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

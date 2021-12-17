@@ -1,0 +1,25 @@
+*** TraceLevel.Verbose: Verbose ***
+2020-06-10 18:25:20	Info	Started deserializing m4_04_tracewriter.Author. Path 'name', line 2, position 9.
+2020-06-10 18:25:20	Info	Started deserializing System.String[]. Path 'courses', line 3, position 14.
+2020-06-10 18:25:20	Info	Finished deserializing System.String[]. Path 'courses', line 8, position 3.
+2020-06-10 18:25:20	Verbose	Could not find member 'car ' on m4_04_tracewriter.Author. Path '['car ']', line 12, position 9.
+2020-06-10 18:25:20	Verbose	Could not find member 'authorRelationship' on m4_04_tracewriter.Author. Path 'authorRelationship', line 16, position 23.
+2020-06-10 18:25:20	Info	Finished deserializing m4_04_tracewriter.Author. Path '', line 17, position 1.
+2020-06-10 18:25:20	Verbose	Deserialized JSON: 
+{
+  "name": "Xavier Morera",
+  "courses": [
+    "Solr",
+    "Spark",
+    "Python",
+    "T-SQL"
+  ],
+  "since": "2014-01-14T00:00:00",
+  "happy": true,
+  "issues": null,
+  "car ": {
+    "model": "Land Rover Series III",
+    "year": 1976
+  },
+  "authorRelationship": 1
+}

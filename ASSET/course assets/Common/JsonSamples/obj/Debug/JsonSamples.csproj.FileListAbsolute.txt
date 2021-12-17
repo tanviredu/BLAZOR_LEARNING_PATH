@@ -1,0 +1,10 @@
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\bin\Debug\AuthorCourses.json
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\bin\Debug\AuthorDates.json
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\bin\Debug\AuthorSmall.json
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\bin\Debug\AuthorSingle.json
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\bin\Debug\AuthorExtended.json
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\bin\Debug\JsonSamples.dll
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\bin\Debug\JsonSamples.pdb
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\obj\Debug\JsonSamples.csproj.CoreCompileInputs.cache
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\obj\Debug\JsonSamples.dll
+C:\xavier\Dropbox\ps-json-net-content-mabaga\completed-demos\JsonSamples\obj\Debug\JsonSamples.pdb
