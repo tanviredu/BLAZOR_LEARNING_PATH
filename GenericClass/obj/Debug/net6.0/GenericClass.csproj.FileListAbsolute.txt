@@ -1,0 +1,15 @@
+F:\JSON.NET_PROJECT\GenericClass\bin\Debug\net6.0\GenericClass.exe
+F:\JSON.NET_PROJECT\GenericClass\bin\Debug\net6.0\GenericClass.deps.json
+F:\JSON.NET_PROJECT\GenericClass\bin\Debug\net6.0\GenericClass.runtimeconfig.json
+F:\JSON.NET_PROJECT\GenericClass\bin\Debug\net6.0\GenericClass.dll
+F:\JSON.NET_PROJECT\GenericClass\bin\Debug\net6.0\ref\GenericClass.dll
+F:\JSON.NET_PROJECT\GenericClass\bin\Debug\net6.0\GenericClass.pdb
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\GenericClass.csproj.AssemblyReference.cache
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\GenericClass.AssemblyInfoInputs.cache
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\GenericClass.AssemblyInfo.cs
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\GenericClass.csproj.CoreCompileInputs.cache
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\GenericClass.dll
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\ref\GenericClass.dll
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\GenericClass.pdb
+F:\JSON.NET_PROJECT\GenericClass\obj\Debug\net6.0\GenericClass.genruntimeconfig.cache
